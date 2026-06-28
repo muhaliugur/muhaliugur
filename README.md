@@ -1,7 +1,6 @@
 ## Merhaba, ben Muhammet Ali Uğur 👋
 
-2\. sınıf Bilgisayar Mühendisliği öğrencisi Zonguldak Bülent Ecevit Üniversitesi  
-**ZBEU OVAT** otonom araç takımında yazılım geliştirici olarak çalışıyorum.
+Zonguldak BÜlent Ecevit Üniversitesinde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. 
 
 ---
 
